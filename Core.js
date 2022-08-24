@@ -1205,11 +1205,11 @@ let cron = require('node-cron')
                                },
                   message: { 
                                 "videoMessage": { 
-                                "title": `Miku`,
-                                "h": `Miku`,
+                                "title": `Naren`,
+                                "h": `Naren`,
                                 'duration': '99999', 
                                 'gifPlayback': 'true', 
-                                'caption': `Fantox`,
+                                'caption': `OP NAREN FF`,
                                 'jpegThumbnail': fs.readFileSync('./Assets/miku.mp4')
                                        }
                                       }
@@ -1509,13 +1509,13 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah!
 
 *GROUP 1*
-https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS
+https://youtu.be/Fm3XZ7MEIzg
 
 *GROUP 2*
-https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5
+https://youtu.be/Fm3XZ7MEIzg
 
 *GROUP 3*
-https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd`)
+https://youtu.be/Fm3XZ7MEIzg`)
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
