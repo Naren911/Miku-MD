@@ -4938,7 +4938,7 @@ translate, fliptext, toletter
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *OP NAREN FF*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
