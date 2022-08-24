@@ -26,14 +26,14 @@ console.log(color(figlet.textSync('Miku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: FantoX001','aqua'))
+console.log(color('\nHello, I am OP NAREN FF, the main developer of this bot.\n\nThanks for using: Naren Bot','aqua'))
+console.log(color('\nYou can follow me on GitHub: Naren911','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Miku = MikuConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Miku by: Fantox','Safari','1.0.0'],
+        browser: ['Miku by: Naren','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -121,7 +121,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 Mikutext = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *Miku Nakano*, Welcome to ${metadata.subject}.
+I am *OP NAREN FF*, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
